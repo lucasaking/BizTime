@@ -1,1 +1,1 @@
-const db = require("./biztime");
+const db = require("../db");
